@@ -5,8 +5,8 @@
 
 # ハンズオンの導入
 
-https://github.com/raisetech-for-student/rest-api-handson　をもとにPostmanの実装
-その後、アカウント作成
+https://github.com/raisetech-for-student/rest-api-handson　
+をもとにPostmanの実装、アカウント作成
 
 # 動作確認
 
@@ -33,7 +33,13 @@ https://github.com/raisetech-for-student/rest-api-handson　をもとにPostman�
 
 # 第7回の課題
 
-ネコの種類と名前を用いた
+https://github.com/iseki-c/RaiseTach-Task7/blob/main/CatsApplication.java
+
+https://github.com/iseki-c/RaiseTach-Task7/blob/main/Catscontroller.java
+
+https://github.com/iseki-c/RaiseTach-Task7/blob/main/Catname.java
+
+上記にてコード参照
 
 # 動作確認
 
