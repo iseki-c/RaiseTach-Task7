@@ -8,6 +8,8 @@
 https://github.com/raisetech-for-student/rest-api-handson　をもとにPostmanの実装
 その後、アカウント作成
 
+# 動作確認
+
 <GETリクエスト>
 
 ![image](https://github.com/iseki-c/RaiseTach-Task7/assets/141741576/833daf8c-a10d-46bd-9844-b980b5738b67)
@@ -31,4 +33,10 @@ https://github.com/raisetech-for-student/rest-api-handson　をもとにPostman�
 
 # 第7回の課題
 
+ネコの種類と名前を用いた
+
+# 動作確認
+
 ![image](https://github.com/iseki-c/RaiseTach-Task7/assets/141741576/3175e173-0b38-4152-b100-035d18f66933)
+
+
